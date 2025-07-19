@@ -1,3 +1,53 @@
+# ================================================================
+# ======================= Nastavení webu =========================
+# ================================================================
+url: 'https://pplkvally.github.io'
+baseurl: ''
+
+# patička webu (Copyright), jména záložek v prohlížeči
+title: 'Jméno skupiny'
+
+# Propíše se třeba do prokliků ze sociálních sítí, viz https://ogp.me/
+# Takhle to bude vypadat:
+# https://programmingpercy.tech/_app/immutable/assets/img0-346f98ae.webp
+description: 'Kratší popisek skupiny, kdo jsme, co děláme.'
+logo: "/imgs/logo.gif"
+
+# Záložky na horní liště (zobrazovaný text + kam ukazují)
+navigation_header:
+- title: Domů
+  url: /
+- title: O nás
+  url: /about/
+- title: Příspěvky
+  url: /blog/
+
+# Záložky na dolní liště (zobrazovaný text + kam ukazují)
+navigation_footer:
+- title: Zpátky nahoru
+  url: "#top"
+
+# ================================================================
+# ========================= Příspěvky ============================
+# ================================================================
+
+# Tahle stránka se dynamicky generuje, takže nemá vlastní md/html soubor
+collections:
+  posts:
+    title: Příspěvky
+    output: true
+    description: "Krátký text, co zůstane viset nad všemi příspěvky."
+    # Note the '|' symbol, and the indent
+    feature_text: |
+      Krátký text na stránce s příspěvky, který překrývá obrázek.
+      Tímhle trikem se dá taky dělat text na více řádků.
+      Výsledek na webu je stejný, jako když to napíšeš na jednom řádku.
+    feature_image: "/imgs/background_blog.jpg"
+
+# ================================================================
+# ========================== Nesahat =============================
+# ================================================================
+
 # Set theme
 remote_theme: daviddarnes/alembic@main
 
@@ -20,41 +70,11 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
-# Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
-
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
-
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
 defaults:
