@@ -1,9 +1,5 @@
 # Jak upravovat tenhle web a nezešílet
 
-Tenhle soubor se na web nikdy nedostane, a bude jenom v tomhle repozitáři, který
-je něco jako "portál pro správu webu".  Každopádně, tenhle repozitář musí být
-taky veřejný (pro nahlížení), takže bych sem nedával nic tajného.
-
 Základní změny se dělají v konfiguračním souboru `_config.yml`:
 - Jméno webu v patičce a jménech záložek
 - odkazy v hlavičce a patičce webu
@@ -18,6 +14,11 @@ Základní změny se dělají v konfiguračním souboru `_config.yml`:
 Potom se dají vcelku intuitivně přidávat **nové příspěvky** z adresáře `_posts`.
 Jméno souboru musí obsahovat datum zveřejnění, obecně jakékoliv datum v
 minulosti.  Tyto příspěvky pak jsou seřazené podle data v záložce "Příspěvky".
+
+Tenhle soubor `README.md` se na web nikdy nedostane, a bude jenom v tomhle
+repozitáři, který je něco jako "portál pro správu webu". Každopádně, tenhle
+repozitář musí být taky veřejný (pro nahlížení), takže bych sem nedával nic
+tajného.
 
 ## Hlavička dokumentu
 
@@ -52,6 +53,30 @@ Fun fact: Tato hlavička fakticky není formátu Markdown, ale YAML (stejně jak
 přidá symbol `#`. V Markdownu by tohle udělalo nadpis. Textová hodnota parametru
 v YAML formátu se píše buď na jeden řádek do "uvozovek", nebo na více řádek -
 potom je potřeba na první řádku dát symbol `|`.
+
+## Jak upravit obsah stránky?
+
+Musíš být na stránce https://github.com/PplkVally/pplkvally.github.io,
+přihlášený jako uživatel který má právo repozitář měnit. To může být vlastník
+projektu (účet `PplkVally`), ale taky kdokoliv jiný, komu byly práva přiděleny.
+
+Klikni na soubor, který chceš měnit, třeba `index.md`. Nelekni se, že
+vykreslování dokumentu nebude moc fungovat - Github neočekává YAML hlavičku.
+Vpravo nahoře je ikonka tužky `Edit this file`, viz screenshot.
+
+![imgs/edit_content.png]
+
+Tím se web přepne do editačního módu, a Markdown se přestane vykreslovat.
+Jakmile uděláš změny, které jsi chtěl, klikni na zelené `Commit Changes...`.
+Tím se změny "uloží", v návaznosti se Github pokusí nasadit novou verzi webu,
+což většinou trvá cca minutu. Pokud se něco pokazí, měla by zůstat veřejná
+původní verze webu, pošle se notifikace mailem (něco ve smyslu **Pipeline
+Failed/Broken**), a v dalším commitu můžeš chybu opravit.
+
+Pokud chceš upravovat víc souborů najednou, asi budeš muset udělat víc commitů.
+Alternativa je použít plnější (stále webový) editor `github.dev`. Dostaneš se
+na něj ze šipky vedle ikonky tužky. Ten víceméně simuluje textový editor VS Code,
+ve kterém jde toho dělat o dost víc.
 
 ## Obrázky
 
