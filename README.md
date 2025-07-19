@@ -20,6 +20,11 @@ repozitáři, který je něco jako "portál pro správu webu". Každopádně, te
 repozitář musí být taky veřejný (pro nahlížení), takže bych sem nedával nic
 tajného.
 
+POZOR: Skrz tento "portál správce" na `github.com` je vidět i historie změn.
+Pokud v jednom commitu něco přidám, a ve druhém odeberu, pořád se k tomu lze
+dostat. Pokud v historii mám něco, co tam hodně nechci mít, vyhledám pomoc
+někoho, kdo Gitu víc rozumí.
+
 ## Hlavička dokumentu
 
 Každá ze stránek má svou **hlavičku**, která upravuje její podobu mimo samotný
@@ -92,9 +97,19 @@ Pokud chcete na web přidat nějaký **obrázek**, je nejlepší ho umístit do 
 pak lze využít v jakékoliv ze stránek webu pomocí odkazu. Odkazy ale snadno
 můžou vést i na jiné stránky.
 
----
+Obrázek do složky jde z webu nahrát přes tlačitko `Upload files`, viz screenshot.
 
-Užitečné odkazy:
+![](imgs/upload_image.png)
+
+Stejně tak jde obrázek smazat - kliknu na obrázek ve složce, tři tečky vpravo
+nahoře, zvolím `Delete file`. Totéž jde pochopitelně dělat i s neobrázkovými soubory.
+
+![](imgs/delete_image.png)
+
+Alternativně to (asi) jde skrz dříve zmiňované `github.dev`, kde v jednom commitu
+je možné udělat více změn.
+
+## Užitečné odkazy
 
 [Github Pages](https://docs.github.com/en/pages) je služba, která stránky do
 určité velikosti bezplatně nasazuje a zpřístupňuje na internet.
