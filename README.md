@@ -64,7 +64,7 @@ Klikni na soubor, který chceš měnit, třeba `index.md`. Nelekni se, že
 vykreslování dokumentu nebude moc fungovat - Github neočekává YAML hlavičku.
 Vpravo nahoře je ikonka tužky `Edit this file`, viz screenshot.
 
-![imgs/edit_content.png]
+![](imgs/edit_content.png)
 
 Tím se web přepne do editačního módu, a Markdown se přestane vykreslovat.
 Jakmile uděláš změny, které jsi chtěl, klikni na zelené `Commit Changes...`.
@@ -72,6 +72,13 @@ Tím se změny "uloží", v návaznosti se Github pokusí nasadit novou verzi we
 což většinou trvá cca minutu. Pokud se něco pokazí, měla by zůstat veřejná
 původní verze webu, pošle se notifikace mailem (něco ve smyslu **Pipeline
 Failed/Broken**), a v dalším commitu můžeš chybu opravit.
+
+Pokud chceš udělat commit (uložit změny), aniž by se nahrála nová verze na web,
+je možné do jména/zprávy commitu přidat `[skip ci]` (CI = Continuous Integration).
+Hodí se to zpravidla ve chvíli, když chci udělat více souvisejících změn, kde
+stav mezi commity není funkční podoba webu (např. odstranění obrázku, přidání
+obrázku a změna odkazu na obrázek). Lepší cesta je ale udělat všechny změny
+v jednom commitu.
 
 Pokud chceš upravovat víc souborů najednou, asi budeš muset udělat víc commitů.
 Alternativa je použít plnější (stále webový) editor `github.dev`. Dostaneš se
