@@ -8,16 +8,23 @@ Jsme parta nadšenců do přírody, dobrodružství a dětských táborů. Spoju
 
 ## Co děláme
 
-- Pořádáme letní tábory pro děti od 7 do 15 let
+- Pořádáme letní tábory a víkendové akce pro děti od 7 do 15 let
 - Učíme základy táboření, spolupráci a samostatnosti
-- Stavíme přístřešky, vaříme na ohni, a hlavně si to užíváme
+- Stavíme přístřešky, vaříme na ohni, chodíme na výlety
+- Připravujeme hry, celotáborové příběhy a rozvojové aktivity
+- Vytváříme přátelské prostředí, kde mají děti prostor být samy sebou a zažít opravdová dobrodružství
+- Ale hlavně si to všichni nesmírně užíváme
 
 ## Naše mise
 
-Chceme dětem ukázat svět mimo obrazovky. Pomáháme jim najít kamarády, zážitky a odvahu zkoušet nové věci.
+Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. Tábor probíhá bez přístupu k elektřině a děti si tak mohou naplno užít pobyt v přírodě. Vytváříme prostředí, kde vznikají přátelství a silné zážitky, děti podporujeme v samostatnosti, spolupráci a odvaze zkoušet nové věci.
+
+## Naši vedoucí
+
+- 
 
 ## Kontakt
 
-📧 Email: taborova.skupina@example.com
+📧 Email: pplkvally@gmail.com
 
-📞 Telefon: +420 123 456 789
+📞 Telefon: +420 608 963 653
