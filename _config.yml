@@ -5,12 +5,12 @@ url: 'https://pplkvally.github.io'
 baseurl: ''
 
 # patička webu (Copyright), jména záložek v prohlížeči
-title: 'Jméno skupiny'
+title: 'Letní tábor Piháček, skupina Pplk. Vally'
 
 # Propíše se třeba do prokliků ze sociálních sítí, viz https://ogp.me/
 # Takhle to bude vypadat:
 # https://programmingpercy.tech/_app/immutable/assets/img0-346f98ae.webp
-description: 'Kratší popisek skupiny, kdo jsme, co děláme.'
+description: 'Jsme menší táborová skupina Pplk. Vally, která se primárně věnuje pořádání letních táborů u rubníka Pihatého, Piháček. Během roku navíc připravujeme i kratší tematické akce pro děti. Většina z nás sama na tomto táboře vyrůstala, a dnes tak s nadšením předáváme dál zkušenosti, které nás formovaly. Jsme součástí asociace TOM a zakládáme si na osobním přístupu a kvalitním programu.'
 logo: "/imgs/logo.gif"
 
 # Záložky na horní liště (zobrazovaný text + kam ukazují)
@@ -36,7 +36,7 @@ collections:
   posts:
     title: Příspěvky
     output: true
-    description: "Krátký text, co zůstane viset nad všemi příspěvky."
+    description: "Zde si můžete přečíst o všech našich dobrodružstvích."
     # Note the '|' symbol, and the indent
     feature_text: |
       Krátký text na stránce s příspěvky, který překrývá obrázek.
