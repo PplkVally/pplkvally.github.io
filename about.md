@@ -21,7 +21,10 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 
 ## Naši vedoucí
 
-- 
+- Hlavní vedoucí, Eliška Orsáková
+- Skupinářka + komunikace, Anna Machová
+- Hospodářka, Marie Machová
+- Zdravotnice, Barbora Orsáková
 
 ## Kontakt
 
