@@ -38,11 +38,7 @@ collections:
     output: true
     description: "Zde si můžete přečíst o všech našich dobrodružstvích."
     # Note the '|' symbol, and the indent
-    feature_text: |
-      Krátký text na stránce s příspěvky, který překrývá obrázek.
-      Tímhle trikem se dá taky dělat text na více řádků.
-      Výsledek na webu je stejný, jako když to napíšeš na jednom řádku.
-    feature_image: "/imgs/background_blog.jpg"
+       feature_image: "imgs/vecerni_ohen2.jpg"
 
 # ================================================================
 # ========================== Nesahat =============================
