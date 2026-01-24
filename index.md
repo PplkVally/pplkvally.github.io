@@ -1,6 +1,6 @@
 ---
 title: LT Piháček, skupina Pplk. Vally
-feature_image: "imgs/stany_crop.png"
+feature_image: "imgs/stany_crop2.png"
 
 ---
 
