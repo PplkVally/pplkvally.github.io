@@ -1,20 +1,10 @@
 ---
-title: Titulek hlavní stránky
-feature_image: "/imgs/background_homepage.jpg"
-feature_text: |
-  ## Hello world
-  <h2 style="color: rgb(255, 255, 255)">Hello world</h2>
+title: LT Piháček, skupina Pplk. Vally
+feature_image: "imgs/stany.jpg"
+
 ---
 
-Tady bude text, který se má zobrazit na hlavní stránce. Tento text může být taky **tučný**, *šikmý*, a kdo ví co ještě.
-Formátuje se podle standardu [Markdown](https://www.markdownguide.org/cheat-sheet/).
+*Jsme menší táborová skupina Pplk. Vally, která se primárně věnuje pořádání letních táborů u rubníka Pihatého, Piháček. Během roku navíc připravujeme i kratší tematické akce pro děti. Většina z nás sama na tomto táboře vyrůstala, a dnes tak s nadšením předáváme dál zkušenosti, které nás formovaly. Jsme součástí asociace TOM a zakládáme si na osobním přístupu a kvalitním programu.*
 
-Můžeme sem vložit obrázek:
 
-![popisek obrázku](imgs/stock.webp)
-
-Bohužel takhle nenastavíme velikost obrázku, kdyby to vypadalo ošklivě, tak je potřeba dělat:
-
-<img src="imgs/stock.webp" width="200px">
-
-<img src="imgs/stock.webp" width="100%">
+<img src="imgs/Deti_ohen_zada.jpg" width="100%">
