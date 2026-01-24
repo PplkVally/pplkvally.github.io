@@ -38,6 +38,8 @@ collections:
     output: true
     description: "Zde si můžete přečíst o všech našich dobrodružstvích."
     # Note the '|' symbol, and the indent
+    feature_text: |
+
     feature_image: "imgs/vecerni_ohen2.jpg"
 
 # ================================================================
