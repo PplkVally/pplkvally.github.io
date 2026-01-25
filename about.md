@@ -1,5 +1,6 @@
 ---
 title: O nás
+feature_image: "/imgs/Pihac_labute2.jpg"
 ---
 
 ## Kdo jsme
