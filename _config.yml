@@ -36,7 +36,7 @@ collections:
   posts:
     title: Příspěvky
     output: true
-    description: "Zde si můžete přečíst o všech našich dobrodružstvích. Fotky ze všech našich akcí naleznete zde"
+    description: "Zde si můžete přečíst o všech našich dobrodružstvích. Fotky ze všech našich akcí naleznete [zde](/PDF_photos/Vsechna_alba.pdf)."
     # Note the '|' symbol, and the indent
     feature_text: |
 
