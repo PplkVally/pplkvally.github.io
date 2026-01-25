@@ -10,7 +10,7 @@ Jsme parta nadšenců do přírody, dobrodružství a dětských táborů. Spoju
 ## Co děláme
 
 - Pořádáme letní tábory a víkendové akce pro děti od 7 do 15 let
-- Učíme základy táboření, spolupráci a samostatnosti
+- Učíme děti spolupráci, samostatnosti a základům táboření
 - Stavíme přístřešky, vaříme na ohni, chodíme na výlety
 - Připravujeme hry, celotáborové příběhy a rozvojové aktivity
 - Vytváříme přátelské prostředí, kde mají děti prostor být samy sebou a zažít opravdová dobrodružství
