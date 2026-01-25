@@ -20,14 +20,14 @@ Jsme parta nadšenců do přírody, dobrodružství a dětských táborů. Spoju
 
 ## Naše mise
 
-Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. Tábor probíhá bez přístupu k elektřině a děti si tak mohou naplno užít pobyt v přírodě. Vytváříme prostředí, kde vznikají přátelství a silné zážitky, děti podporujeme v samostatnosti, spolupráci a odvaze zkoušet nové věci.
+Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. Tábor probíhá bez přístupu k elektřině, a děti si tak mohou naplno užít pobyt v přírodě. Vytváříme prostředí, kde vznikají přátelství a silné zážitky, děti podporujeme v samostatnosti, spolupráci a odvaze zkoušet nové věci.
 
 ## Naši vedoucí
 
-- Hlavní vedoucí, Eliška Orsáková
-- Skupinářka + komunikace, Anna Machová
-- Hospodářka, Marie Machová
-- Zdravotnice, Barbora Orsáková
+- Hlavní vedoucí: Eliška Orsáková
+- Skupinářka + komunikace: Anna Machová
+- Hospodářka: Marie Machová
+- Zdravotnice: Barbora Orsáková
 
 ## Kontakt
 
