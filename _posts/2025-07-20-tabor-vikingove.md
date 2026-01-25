@@ -1,5 +1,5 @@
 ---
-title: Tábor Vikingové 2026
+title: Tábor Vikingové 2025
 categories:
 - General
 feature_image: "/imgs/vikingove_vedouci2.jpg"
