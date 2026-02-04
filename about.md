@@ -50,5 +50,5 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 <img src="/imgs/esusy.jpg" width="300px">
 <img src="/imgs/louka.jpg" width="300px">
 <img src="/imgs/konici_louka.jpg" width="300px">
-<img src="/imgs/sirokac.jpg" width="600px">
+<img src="/imgs/sirokac_crop.jpg" width="600px">
 
