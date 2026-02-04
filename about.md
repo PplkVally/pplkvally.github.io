@@ -38,3 +38,17 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 :house: Sídlo: Kopretinová 2167/12, Praha 10 Záběhlice, 106 00
 
 :tent: Adresa tábořiště: LT Piháček, Oselce 335 46, Plzeň-Jih
+
+## Naše tábořiště
+<img src="/imgs/jidelna.jpg" width="200px">
+<img src="/imgs/kuchan_vydejak.jpg" width="200px">
+<img src="/imgs/kuchyn_radomir.jpg" width="200px">
+<img src="/imgs/zranice.jpg" width="200px">
+<img src="/imgs/stany_stozar_les.jpg" width="200px">
+<img src="/imgs/ladislav.jpg" width="200px">
+<img src="/imgs/Warehouse_malovani.jpg" width="200px">
+<img src="/imgs/Bordel.jpg" width="200px">
+<img src="/imgs/esusy.jpg" width="200px">
+<img src="/imgs/sirokac.jpg" width="200px">
+<img src="/imgs/louka.jpg" width="200px">
+<img src="/imgs/konici_louka.jpg" width="200px">
