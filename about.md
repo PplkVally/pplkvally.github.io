@@ -16,7 +16,7 @@ Jsme parta nadšenců do přírody, dobrodružství a dětských táborů. Spoju
 - Vytváříme přátelské prostředí, kde mají děti prostor být samy sebou a zažít opravdová dobrodružství
 - Ale hlavně si to všichni nesmírně užíváme
 
-<img src="/imgs/vatra2.jpg" width="200px">      <img src="/imgs/molo.jpg" width="400px">
+<img src="/imgs/vatra2.jpg" width="200px">  <img src="/imgs/Pihacek_logo.png" width="200px">
 
 ## Naše mise
 
@@ -50,5 +50,6 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 <img src="/imgs/esusy.jpg" width="300px">
 <img src="/imgs/louka.jpg" width="300px">
 <img src="/imgs/konici_louka.jpg" width="300px">
+<img src="/imgs/molo.jpg" width="600px">
 <img src="/imgs/sirokac_crop.jpg" width="600px">
 
