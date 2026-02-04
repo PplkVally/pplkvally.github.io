@@ -44,10 +44,11 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 <img src="/imgs/kuchyn_radomir.jpg" width="200px">
 <img src="/imgs/jidelna.jpg" width="300px">
 <img src="/imgs/stany_stozar_les.jpg" width="300px">
-<img src="/imgs/ladislav.jpg" width="200px">
-<img src="/imgs/Warehouse_malovani.jpg" width="200px">
-<img src="/imgs/Bordel.jpg" width="200px">
-<img src="/imgs/esusy.jpg" width="200px">
-<img src="/imgs/sirokac.jpg" width="200px">
-<img src="/imgs/louka.jpg" width="200px">
-<img src="/imgs/konici_louka.jpg" width="200px">
+<img src="/imgs/ladislav.jpg" width="300px">
+<img src="/imgs/Warehouse_malovani.jpg" width="300px">
+<img src="/imgs/Bordel.jpg" width="300px">
+<img src="/imgs/esusy.jpg" width="300px">
+<img src="/imgs/louka.jpg" width="300px">
+<img src="/imgs/konici_louka.jpg" width="300px">
+<img src="/imgs/sirokac.jpg" width="500px">
+
