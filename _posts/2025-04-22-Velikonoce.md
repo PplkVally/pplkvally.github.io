@@ -5,6 +5,7 @@ categories:
 - General
 feature_image: "/imgs/velikonoce.jpg"
 ---
+
 Jaké to je být farmářem a dodržovat vesnické tradice?
 
 Přesně to si mohly děti vyzkoušet během naší velikonoční akce v Rudném v Orlických horách. Společně jsme se ponořili do světa venkovských zvyků a každodenní práce – děti si vyzkoušely sázení brambor, přípravu tradičních vesnických pokrmů a poznávaly velikonoční tradice tak, jak se slavily dříve.
