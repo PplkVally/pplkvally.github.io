@@ -40,9 +40,9 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 :tent: Adresa tábořiště: LT Piháček, Oselce 335 46, Plzeň-Jih
 
 ## Naše tábořiště
-<img src="/imgs/jidelna.jpg" width="200px">   <img src="/imgs/kuchan_vydejak.jpg" width="200px">
+<img src="/imgs/zranice.jpg" width="200px">   <img src="/imgs/kuchan_vydejak.jpg" width="200px">
 <img src="/imgs/kuchyn_radomir.jpg" width="200px">
-<img src="/imgs/zranice.jpg" width="200px">
+<img src="/imgs/jidelna.jpg" width="200px">
 <img src="/imgs/stany_stozar_les.jpg" width="200px">
 <img src="/imgs/ladislav.jpg" width="200px">
 <img src="/imgs/Warehouse_malovani.jpg" width="200px">
