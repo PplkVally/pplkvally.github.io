@@ -16,7 +16,7 @@ Jsme parta nadšenců do přírody, dobrodružství a dětských táborů. Spoju
 - Vytváříme přátelské prostředí, kde mají děti prostor být samy sebou a zažít opravdová dobrodružství
 - Ale hlavně si to všichni nesmírně užíváme
 
-<img src="/imgs/vatra2.jpg" width="200px">  <img src="/imgs/molo.jpg" width="400px">
+<img src="/imgs/vatra2.jpg" width="200px">      <img src="/imgs/molo.jpg" width="400px">
 
 ## Naše mise
 
