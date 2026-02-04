@@ -34,3 +34,7 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 📧 Email: pplkvally@gmail.com
 
 📞 Telefon: +420 608 963 653
+
+:house: Sídlo: Kopretinová 2167/12, Praha 10 Záběhlice, 106 00
+
+:tent: Adresa tábořiště: LT Piháček, Oselce 335 46, Plzeň-Jih
