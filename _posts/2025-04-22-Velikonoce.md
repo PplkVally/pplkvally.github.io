@@ -2,7 +2,7 @@
 title: Velikonoce 2025
 categories:
 - General
-feature_image: "/imgs/velikonoce_crop.jpg"
+feature_image: "/imgs/velikonoce_beranek.jpg"
 ---
 
 Jaké to je být farmářem a dodržovat vesnické tradice?
