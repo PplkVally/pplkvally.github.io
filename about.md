@@ -41,8 +41,9 @@ Naším cílem je ukázat dětem svět mimo obrazovky a moderní technologie. T�
 
 ## Naše tábořiště
 <img src="/imgs/zranice.jpg" width="200px">   <img src="/imgs/kuchan_vydejak.jpg" width="200px">
-<img src="/imgs/kuchyn_radomir.jpg" width="200px">
-<img src="/imgs/jidelna.jpg" width="200px">
+<img src="/imgs/kuchyn_radomir.jpg" width="300px">
+<img src="/imgs/jidelna.jpg" width="300px">
+
 <img src="/imgs/stany_stozar_les.jpg" width="200px">
 <img src="/imgs/ladislav.jpg" width="200px">
 <img src="/imgs/Warehouse_malovani.jpg" width="200px">
