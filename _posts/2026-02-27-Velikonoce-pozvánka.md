@@ -15,6 +15,7 @@ Tentokrát se vydáme do Mšena na Kokořínsku, které by se dalo považovat za
 Akce se bude konat **2.- 6. 4. 2026**, ubytováni budeme v tamější mšenské sokolovně.
 
 Důležité informace:
+
 1) **sraz** = čtvrtek **2. 4. 2026 ve 14:45** na stanici Střížkov vedle prodejny PONT u autobusové zastávky (plánovaný spoj jede v 15:30, přesto buďte prosím dochvilní)
 
 2) **příjezd** = pondělí **6.4.2026 ve 12:25** tamtéž
