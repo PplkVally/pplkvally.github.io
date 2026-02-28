@@ -5,6 +5,8 @@ categories:
 feature_image: "/imgs/hollywood_sign.jpeg"
 ---
 
+Vzhůru do Hollywoodu :dizzy:
+
 Milí rodiče, milé děti,
 čas rychle běží, a tak se nám opět blíží velikonoční akce. 
 
@@ -14,10 +16,15 @@ Akce se bude konat **2.- 6. 4. 2026**, ubytováni budeme v tamější mšenské 
 
 Důležité informace:
 1) **sraz** = čtvrtek **2. 4. 2026 ve 14:45** na stanici Střížkov vedle prodejny PONT u autobusové zastávky (plánovaný spoj jede v 15:30, přesto buďte prosím dochvilní)
+
 2) **příjezd** = pondělí **6.4.2026 ve 12:25** tamtéž
+
 3) **cena** = jednotná **1500 Kč**; přesnou částku v hotovosti přineste prosím na sraz
+
 4) [**přihláška**](/PDF_photos/Prihlaska_Velikonoce_2026.pdf) = přihlášku prosím pošlete nejpozději **do 20. března** vyplněnou a naskenovanou/vyfocenou (v příloze), originál přineste i s penězi na sraz
+
 5) [**prohlášení o bezinfekčnosti**](/PDF_photos/Bezinfekcnost_2026.pdf)= vyplněné prosím přineste na sraz
+
 6) [**seznam vybavení**](/PDF_photos/Seznam_vybaveni_velikonoce_2026.pdf)= prosím zabalte dětem krosnu opravdu tak, že se jim dobře ponese. Malý batůžek výhodou (budeme chodit na výlety).
 
 Zde je **kontakt na vedoucí**, kterou můžete kontaktovat v době akce:
