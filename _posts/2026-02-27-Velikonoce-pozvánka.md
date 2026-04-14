@@ -1,5 +1,5 @@
 ---
-title: Velikonoce 2026
+title: Pozvánka na Velikonoce 2026
 categories:
 - General
 feature_image: "/imgs/hollywood_sign.jpeg"
