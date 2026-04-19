@@ -39,7 +39,7 @@ Stále nás najdete na louce/v lese u rybníka Pihatý. **V příloze je mapa** 
 
 5) Přihláška na tábor = **přes online přihlašovací formulář**
 
-**Na [tomto] (https://docs.google.com/forms/d/e/1FAIpQLSdSkrpm2JgQ13X1hvz07t9_jb7fDT13eaGa_9_CeQuLwE6ILw/viewform?usp=dialog) odkaze najdete přihlašovací formulář** na tábor, který vyplňte **nejpozději do 17. 5. 2026**. **Vyplněním tohoto formuláře závazně přihlásíte vaše dítě na tábor**. Později (v první půlce června) vám pak pošleme emailem vaši předvyplněnou přihlášku, kterou vytisknete, stvrdíte pár podpisy (jako vždy) a odevzdáte u příjezdu i s ostatními potřebnými dokumenty. Tyto dokumenty - potvrzení o bezinfekčnosti a účastnický list - vám také zašleme v tomto pozdějším emailu, ať toho není tolik naráz :blush:.
+**Na [tomto](https://docs.google.com/forms/d/e/1FAIpQLSdSkrpm2JgQ13X1hvz07t9_jb7fDT13eaGa_9_CeQuLwE6ILw/viewform?usp=dialog) odkaze najdete přihlašovací formulář** na tábor, který vyplňte **nejpozději do 17. 5. 2026**. **Vyplněním tohoto formuláře závazně přihlásíte vaše dítě na tábor**. Později (v první půlce června) vám pak pošleme emailem vaši předvyplněnou přihlášku, kterou vytisknete, stvrdíte pár podpisy (jako vždy) a odevzdáte u příjezdu i s ostatními potřebnými dokumenty. Tyto dokumenty - potvrzení o bezinfekčnosti a účastnický list - vám také zašleme v tomto pozdějším emailu, ať toho není tolik naráz :blush:.
 
 
 6) Posudek o zdravotní způsobilosti + seznam vybavení
