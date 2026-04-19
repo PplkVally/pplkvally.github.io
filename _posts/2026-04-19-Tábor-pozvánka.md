@@ -19,9 +19,11 @@ V následujícím emailu naleznete nejen důležité informace o letošním táb
 
 Na základě vašich připomínek z minulých let je příjezd v den státního svátku a odjezd o víkendu, věříme, že Vám tím dopravu usnadníme.
 
+
 2) Cena tábora = **jednotná cena 5200 Kč/dítě** 
 
 Účastnický poplatek prosím zaplaťte nejpozději do 31. 5. 2026 na účet 7371104003/5500. Do poznámky pro příjemce prosím uveďte jméno dítěte, za které platíte. 
+
 
 3) Doprava = **vlastní**
 
@@ -29,13 +31,16 @@ Jelikož je pro nás doprava vlakem a s tím spojená doprava zavazadel velmi ko
 
 **Příjezd na tábor bude 6. 7. mezi 16-17 h a odjezd z tábora bude 19. 7. mezi 12-13 h.**
 
+
 4) Místo tábora = **pořád stejné** :blush:
 
 Stále nás najdete na louce/v lese u rybníka Pihatý. **V příloze je mapa** popisující příjezdovou cestu. Naše přesná adresa pro dopisy/balíčky je **LT Piháček, Oselce 335 46, Plzeň-Jih.**
 
+
 5) Přihláška na tábor = **přes online přihlašovací formulář**
 
 **Na tomto odkaze najdete přihlašovací formulář** na tábor, který vyplňte **nejpozději do 17. 5. 2026**. **Vyplněním tohoto formuláře závazně přihlásíte vaše dítě na tábor**. Později (v první půlce června) vám pak pošleme emailem vaši předvyplněnou přihlášku, kterou vytisknete, stvrdíte pár podpisy (jako vždy) a odevzdáte u příjezdu i s ostatními potřebnými dokumenty. Tyto dokumenty - potvrzení o bezinfekčnosti a účastnický list - vám také zašleme v tomto pozdějším emailu, ať toho není tolik naráz :blush:.
+
 
 6) Posudek o zdravotní způsobilosti + seznam vybavení
 
@@ -44,7 +49,8 @@ a) **posudek o zdravotní způsobilosti**, zde, jelikož může chvíli trvat, n
 
 b) **seznam vybavení na tábor**, zde - oproti loňsku zůstává nezměněn, ale i tak ho zasílám dříve, abyste případně mohli shánět chybějící věci. Jakékoliv vybavení pro detektivy (oblečení, doplňky, lupa, čepice atd.) jsou vřele doporučeny – nejenže vám pomohou lépe se vžít do role detektivů, ale také přispějí k atmosféře celého tábora :blush:. 
 
-8) Kontakty 
+
+7) Kontakty 
 
 V případě dotazů týkajících se jak organizace tábora, tak plateb či zdravotních informací **nás prosím neváhejte kontaktovat** na emailu nebo na následujících tel. číslech:
 a) hlavní vedoucí Eliška = +420 608 963 653
