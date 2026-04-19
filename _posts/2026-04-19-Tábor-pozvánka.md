@@ -13,7 +13,7 @@ Letošní tábor bude ve znamení DETEKTIVŮ! :mag_right:
 
  
 
-V následujícím emailu naleznete nejen důležité informace o letošním táboře, ale např. i přihlašovací formulář, takže prosím pečlivě pročtěte všechny následující body a v případě nejasností se neváhejte ozvat blush:.
+V následujícím emailu naleznete nejen důležité informace o letošním táboře, ale např. i přihlašovací formulář, takže prosím pečlivě pročtěte všechny následující body a v případě nejasností se neváhejte ozvat :blush:.
 
 1) Termín tábora = **6. 7. 2026 - 19. 7. 2026**
 
