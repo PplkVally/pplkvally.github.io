@@ -48,7 +48,8 @@ Jedinými dalšími dokumenty, které vám zasílám nyní, jsou:
 
 a) **posudek o zdravotní způsobilosti**, [**zde**](PDF_photos/zdravotni_zpusobilost_2026.pdf), jelikož může chvíli trvat, než vám ho lékař vystaví (Jako vždy můžete samozřejmě použít posudek, který vám byl vystaven kvůli jiné akci, jen si dejte pozor, ať je stále platný).
 
-b) **seznam vybavení na tábor**, [**zde**]() - oproti loňsku zůstává nezměněn, ale i tak ho zasílám dříve, abyste případně mohli shánět chybějící věci. Jakékoliv vybavení pro detektivy (oblečení, doplňky, lupa, čepice atd.) jsou vřele doporučeny – nejenže vám pomohou lépe se vžít do role detektivů, ale také přispějí k atmosféře celého tábora :blush:. 
+b) **seznam vybavení na tábor**, [**zde**]() - oproti loňsku zůstává nezměněn, ale i tak ho zasílám dříve, abyste případně mohli shánět chybějící věci. 
+Jakékoliv vybavení pro detektivy (oblečení, doplňky, lupa, čepice atd.) jsou vřele doporučeny – nejenže vám pomohou lépe se vžít do role detektivů, ale také přispějí k atmosféře celého tábora :blush:. 
 
 
 7) Kontakty 
