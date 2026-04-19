@@ -22,7 +22,7 @@ Na základě vašich připomínek z minulých let je příjezd v den státního 
 
 2) Cena tábora = **jednotná cena 5200 Kč/dítě** 
 
-Účastnický poplatek prosím zaplaťte nejpozději do 31. 5. 2026 na účet 7371104003/5500. Do poznámky pro příjemce prosím uveďte jméno dítěte, za které platíte. 
+Účastnický poplatek prosím zaplaťte **nejpozději do 31. 5. 2026 na účet 7371104003/5500**. Do poznámky pro příjemce prosím uveďte jméno dítěte, za které platíte. 
 
 
 3) Doprava = **vlastní**
@@ -45,9 +45,9 @@ Stále nás najdete na louce/v lese u rybníka Pihatý. **V příloze je mapa** 
 6) Posudek o zdravotní způsobilosti + seznam vybavení
 
 Jedinými dalšími dokumenty, které vám zasílám nyní, jsou :
-a) **posudek o zdravotní způsobilosti**, zde, jelikož může chvíli trvat, než vám ho lékař vystaví (Jako vždy můžete samozřejmě použít posudek, který vám byl vystaven kvůli jiné akci, jen si dejte pozor, ať je stále platný).
+a) **posudek o zdravotní způsobilosti**, [**zde**](PDF_photos/zdravotni_zpusobilost_2026.pdf), jelikož může chvíli trvat, než vám ho lékař vystaví (Jako vždy můžete samozřejmě použít posudek, který vám byl vystaven kvůli jiné akci, jen si dejte pozor, ať je stále platný).
 
-b) **seznam vybavení na tábor**, zde - oproti loňsku zůstává nezměněn, ale i tak ho zasílám dříve, abyste případně mohli shánět chybějící věci. Jakékoliv vybavení pro detektivy (oblečení, doplňky, lupa, čepice atd.) jsou vřele doporučeny – nejenže vám pomohou lépe se vžít do role detektivů, ale také přispějí k atmosféře celého tábora :blush:. 
+b) **seznam vybavení na tábor**, [**zde**]() - oproti loňsku zůstává nezměněn, ale i tak ho zasílám dříve, abyste případně mohli shánět chybějící věci. Jakékoliv vybavení pro detektivy (oblečení, doplňky, lupa, čepice atd.) jsou vřele doporučeny – nejenže vám pomohou lépe se vžít do role detektivů, ale také přispějí k atmosféře celého tábora :blush:. 
 
 
 7) Kontakty 
