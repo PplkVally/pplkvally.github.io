@@ -11,6 +11,8 @@ Doufáme, že se všichni máte dobře a že se vaše děti těší na letošní
 
 Letošní tábor bude ve znamení DETEKTIVŮ! :mag_right:
 
+Malé městečko Pihburgh bylo vždy specifické svou tajemnou atmosférou, poslední dobou však častěji než jindy dochází k nevysvětlitelným úkazům, záhadám a zmizením... Proto si rada města nevyžádala nikoho jiného než Vás, nadějné detektivy, osobně! 
+Nad rybníkem Piha se rozprostírá neproniknutelná, hustá mlha. Co všechno (se v ní) asi může skrývat?
  
 
 V následujícím emailu naleznete nejen důležité informace o letošním táboře, ale např. i přihlašovací formulář, takže prosím pečlivě pročtěte všechny následující body a v případě nejasností se neváhejte ozvat :blush:.
