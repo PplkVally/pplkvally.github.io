@@ -57,6 +57,7 @@ Jakékoliv vybavení pro detektivy (oblečení, doplňky, lupa, čepice atd.) js
 7) Kontakty 
 
 V případě dotazů týkajících se jak organizace tábora, tak plateb či zdravotních informací **nás prosím neváhejte kontaktovat** na emailu nebo na následujících tel. číslech:
+
 a) hlavní vedoucí Eliška = +420 608 963 653
 
 b) zdravotnice Bára = +420 720 332 279
