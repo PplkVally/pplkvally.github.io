@@ -60,7 +60,7 @@ V případě dotazů týkajících se jak organizace tábora, tak plateb či zdr
 
 a) hlavní vedoucí Eliška = +420 608 963 653
 
-b) zdravotnice Bára = +420 720 332 279
+b) zdravotnice Bára = +420 777 963 390
 
 c) hospodářka Mája = +420 722 234 436
 
