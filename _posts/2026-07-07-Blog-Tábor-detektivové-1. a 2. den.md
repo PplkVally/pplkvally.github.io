@@ -16,4 +16,4 @@ Druhý den za námi přišla vystrašená Eleanor se zprávou, že jí vykradli 
 
 
 
-<img src="/imgs/plakat_jednodenka_detektivove.png" width="100%">
+<img src="/imgs/IMG-20260707-WA0000.jpg" width="100%">
