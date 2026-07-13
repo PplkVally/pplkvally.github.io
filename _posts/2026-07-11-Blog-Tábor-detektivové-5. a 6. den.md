@@ -21,6 +21,4 @@ Všechny deti úspěšně zakončily dobrodružnou výpravu. Nejmladší se vrá
 
 <img src="/imgs/IMG-20260711-WA0007.jpg" width="100%">
 
-<img src="/imgs/IMG-20260711-WA0007.jpg" width="100%">
-
 <img src="/imgs/IMG-20260711-WA0008.jpg" width="100%">
