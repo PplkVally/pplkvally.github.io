@@ -11,6 +11,7 @@ Naši nejstarší se již v noci vydali na dobrodružnou cestu po stopách kroni
 
 
 6.Den - Návrat z dobrodružné výpravy 🏕️🚶
+
 Všechny děti další den úspěšně zakončily dobrodružné výpravy. Nejmladší se vrátili s detektorem lži, střední se dozvěděli informace o unesené Eleanor i to, že ji můžeme večer zachránit, velcí pak přinesli všechny důležité stránky ztracené kroniky. Když se však ti nejmladší vrátili do tábora, vedoucí byli velmi vyčerpaní - tábor byl totiž napaden gangem Krvavých tváří, kteří nám schovali všechny naše sesbírané důkazy. Naštěstí jsme však všechno našli a večer jsme se pak vydali zachránit uvězněnou Eleanor. Museli jsme se nepozorovaně proplížit kolem hlídačů a následně část z nás zajala jednoho ze strážců a zbytek zachránil vystrašenou Eleanor.
 
 
