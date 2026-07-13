@@ -7,11 +7,11 @@ feature_image: "/imgs/detective_background.jpg"
 
 5.Den - Dobrodružná výprava za Eleanor 🚶
 
-Naši nejstarší se již v noci vydali na dobrodružnou cestu po stopách kroniky města Pihburgh. Ráno se na cestu vydali i ostatni děti. Ti nejmenší se vydali pro detektor lži a střední šli po stopách únosce Eleanor. Počasí nam přálo a přespali jsme tedy venku pod širákem a usínali pod nádherným hvězdným nebem. 
+Naši nejstarší se již v noci vydali na dobrodružnou cestu po stopách kroniky města Pihburgh, aby byli o krok napřed před Krvavými tvářemi. Ráno se na cestu vydali také ostatní děti. Nejmenší hledali spolu se známými vědci detektor lži, zatímco střední šli po stopách únosce Eleanor. Počasí nam přálo, a přespali jsme tedy venku pod širákem a usínali pod nádherným hvězdným nebem.
 
 
 6.Den - Návrat z dobrodružné výpravy 🏕️🚶
-Všechny deti úspěšně zakončily dobrodružnou výpravu. Nejmladší se vrátili s detektorem lži, střední se dozvěděli informace o unesené Eleanor a že ji můžeme večer zachránit, velcí přinesli vsechny stránky ztracené kroniky. Když se však ti nejmladší vrátili do tábora, vedoucí byli velmi vyčerpaní, protože tabor byl napaden gangem Krvavých tváří, kteří nám schovali úplně všechny důkazy. Naštěstí jsme všechno našli. Večer jsme se pak vydali zachránit uvězněnou Eleanor. Museli jsme se nepozorovaně proplížit kolem hlídačů a následně část z nás zajala jednoho ze strážců a zbytek zachránil vystrašenou Eleanor. 
+Všechny děti další den úspěšně zakončily dobrodružné výpravy. Nejmladší se vrátili s detektorem lži, střední se dozvěděli informace o unesené Eleanor i to, že ji můžeme večer zachránit, velcí pak přinesli všechny důležité stránky ztracené kroniky. Když se však ti nejmladší vrátili do tábora, vedoucí byli velmi vyčerpaní - tábor byl totiž napaden gangem Krvavých tváří, kteří nám schovali všechny naše sesbírané důkazy. Naštěstí jsme však všechno našli a večer jsme se pak vydali zachránit uvězněnou Eleanor. Museli jsme se nepozorovaně proplížit kolem hlídačů a následně část z nás zajala jednoho ze strážců a zbytek zachránil vystrašenou Eleanor.
 
 
 
