@@ -17,14 +17,12 @@ Tento den jsme museli vydělávat co nejvíce peněz, protože jsme dostali vyd�
 
 <img src="/imgs/hvezdy.jpg" width="50%"> <img src="/imgs/IMG20260712152638.jpg" width="30%">
 
-<img src="/imgs/IMG20260712152615.jpg" width="50%"> <img src="/imgs/IMG20260712152530.jpg" width="30%">
+<img src="/imgs/IMG20260712152615.jpg" width="40%"> <img src="/imgs/IMG20260712152530.jpg" width="40%">
 
 <img src="/imgs/IMG20260712162947.jpg" width="100%">
 
-<img src="/imgs/IMG-20260715-WA0014.jpg" width="50%"> <img src="/imgs/IMG-20260715-WA0013.jpg" width="30%">
+<img src="/imgs/IMG-20260715-WA0014.jpg" width="40%"> <img src="/imgs/IMG-20260715-WA0013.jpg" width="40%">
 
-<img src="/imgs/IMG-20260715-WA0015.jpg" width="50%"> <img src="/imgs/IMG-20260715-WA0016.jpg" width="30%">
+<img src="/imgs/IMG-20260715-WA0015.jpg" width="40%"> <img src="/imgs/IMG-20260715-WA0016.jpg" width="40%">
 
-<img src="/imgs/IMG-20260715-WA0020.jpg" width="50%"> <img src="/imgs/IMG-20260715-WA0022.jpg" width="30%">
-
-<img src="/imgs/IMG-20260715-WA0027.jpg" width="30%">
+<img src="/imgs/IMG-20260715-WA0020.jpg" width="40%"> <img src="/imgs/IMG-20260715-WA0022.jpg" width="40%">
