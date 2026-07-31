@@ -15,27 +15,17 @@ Po fotbalovém turnaji jsme si ještě udělali rekapitulaci příběhu ve form�
 
 Tento den jsme museli vydělávat co nejvíce peněz, protože jsme dostali vydírací dopis. Prý máme sehnat 150 000 korun a zaplatit to přímo šéfovi gangu Krvavých tváří. Příležitost setkat se s jejich leadrem jsme nemohli promarnit, proto jsme celý den vydělávali peníze. Když už jsme nevěděli, jak lépe ty peníze vydělat, vydali jsme se do místního Casina, kde se nám opravdu dařilo. Děti nejenže vydělaly potřebné množství peněz, ale dokonce jim i něco zbylo a mohly si v průběhu kupovat skvělé drinky a občerstvení. Těšili jsme se, že máme dost peněz a sejdeme se s velitelem Krvavých tváří. Bohužel když jsme došli na místo srazu, našli jsme zde jen vzkaz, že si z nás udělali srandu, že se s námi rozhodně scházet nechtějí a že nám stejně ukradnou všechny naše cennosti. Z toho důvodu jsme se rozhodli všichni spát na jednom místě v jídelně, aby bylo jednodušší tábor bránit. V noci opravdu přišli a to hned třikrát, bohužel se Krvavým tvářím hned na začátku podařilo zničit náš detektor lži. Ostatní artefakty jsme však naštěstí uchránili, bylo to však velmi náročné a museli jsme se do hlídání zapojit úplně všichni, abychom je vyhnali z našeho tábora.
 
-<img src="/imgs/hvezdy.jpg" width="50%">
+<img src="/imgs/hvezdy.jpg" width="50%">   <img src="/imgs/IMG20260712152638.jpg" width="50%">
 
-<img src="/imgs/IMG20260712152638.jpg" width="50%">
-
-<img src="/imgs/IMG20260712152615.jpg" width="50%">
-
-<img src="/imgs/IMG20260712152530.jpg" width="50%">
+<img src="/imgs/IMG20260712152615.jpg" width="50%">  <img src="/imgs/IMG20260712152530.jpg" width="50%">
 
 <img src="/imgs/IMG20260712162947.jpg" width="100%">
 
-<img src="/imgs/IMG-20260715-WA0014.jpg" width="50%">
+<img src="/imgs/IMG-20260715-WA0014.jpg" width="50%">  <img src="/imgs/IMG-20260715-WA0013.jpg" width="50%">
 
-<img src="/imgs/IMG-20260715-WA0013.jpg" width="50%">
+<img src="/imgs/IMG-20260715-WA0015.jpg" width="50%">  <img src="/imgs/IMG-20260715-WA0016.jpg" width="50%">
 
-<img src="/imgs/IMG-20260715-WA0015.jpg" width="50%">
-
-<img src="/imgs/IMG-20260715-WA0016.jpg" width="50%">
-
-<img src="/imgs/IMG-20260715-WA0020.jpg" width="50%">
-
-<img src="/imgs/IMG-20260715-WA0022.jpg" width="50%">
+<img src="/imgs/IMG-20260715-WA0020.jpg" width="50%">  <img src="/imgs/IMG-20260715-WA0022.jpg" width="50%">
 
 
 <img src="/imgs/IMG-20260715-WA0027.jpg" width="50%">
